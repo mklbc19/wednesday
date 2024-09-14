@@ -1,1 +1,1 @@
-# wednesday
+Today is # wednesday
